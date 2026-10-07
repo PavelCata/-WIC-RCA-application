@@ -30,6 +30,16 @@
 /.vscode/
 /.zed/
 
+# Local AI assistant tooling
+/.agents/
+/.ai/
+/.claude/
+/.junie/
+/.mcp.json
+/AGENTS.md
+/CLAUDE.md
+/boost.json
+
 # Operating system and editor temporary files
 *.log
 .DS_Store
